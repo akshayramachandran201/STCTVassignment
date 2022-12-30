@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-30T15:48:32 IST" name="Default suite" finished-at="2022-12-30T15:57:21 IST" duration-ms="529719">
+    <groups>
+    </groups>
+    <test started-at="2022-12-30T15:48:32 IST" name="Default test" finished-at="2022-12-30T15:57:21 IST" duration-ms="529719">
+      <class name="com.stctv.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:48:32 IST" name="setUp" finished-at="2022-12-30T15:48:58 IST" duration-ms="26619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:48:58 IST" name="loginPageTitleTest" finished-at="2022-12-30T15:48:58 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:48:58 IST" name="tearDown" finished-at="2022-12-30T15:48:59 IST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:48:59 IST" name="setUp" finished-at="2022-12-30T15:49:20 IST" duration-ms="21347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="subscriptionTypeClassic()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:49:20 IST" name="subscriptionTypeClassic" finished-at="2022-12-30T15:49:20 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscriptionTypeClassic -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:49:20 IST" name="tearDown" finished-at="2022-12-30T15:49:21 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:49:21 IST" name="setUp" finished-at="2022-12-30T15:49:48 IST" duration-ms="27284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="subscriptionTypeLite()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:49:48 IST" name="subscriptionTypeLite" finished-at="2022-12-30T15:49:48 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscriptionTypeLite -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:49:48 IST" name="tearDown" finished-at="2022-12-30T15:49:49 IST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:49:49 IST" name="setUp" finished-at="2022-12-30T15:50:01 IST" duration-ms="11795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="subscriptionTypePremium()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:50:01 IST" name="subscriptionTypePremium" finished-at="2022-12-30T15:50:01 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscriptionTypePremium -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:50:01 IST" name="tearDown" finished-at="2022-12-30T15:50:01 IST" duration-ms="702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:50:01 IST" name="setUp" finished-at="2022-12-30T15:50:27 IST" duration-ms="25626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateClassicPackagePriceForBHD()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:50:27 IST" name="validateClassicPackagePriceForBHD" finished-at="2022-12-30T15:51:08 IST" duration-ms="40884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClassicPackagePriceForBHD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:51:08 IST" name="tearDown" finished-at="2022-12-30T15:51:09 IST" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:51:09 IST" name="setUp" finished-at="2022-12-30T15:51:14 IST" duration-ms="5401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateClassicPackagePriceForKWD()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:51:14 IST" name="validateClassicPackagePriceForKWD" finished-at="2022-12-30T15:51:34 IST" duration-ms="19456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClassicPackagePriceForKWD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:51:34 IST" name="tearDown" finished-at="2022-12-30T15:51:34 IST" duration-ms="713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:51:34 IST" name="setUp" finished-at="2022-12-30T15:51:41 IST" duration-ms="6853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateClassicPackagePriceForSAR()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:51:41 IST" name="validateClassicPackagePriceForSAR" finished-at="2022-12-30T15:52:03 IST" duration-ms="21937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClassicPackagePriceForSAR -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:52:03 IST" name="tearDown" finished-at="2022-12-30T15:52:04 IST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:52:04 IST" name="setUp" finished-at="2022-12-30T15:52:24 IST" duration-ms="20316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCountryBahrain()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:52:24 IST" name="validateCountryBahrain" finished-at="2022-12-30T15:52:46 IST" duration-ms="22109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCountryBahrain -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:52:46 IST" name="tearDown" finished-at="2022-12-30T15:52:47 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:52:47 IST" name="setUp" finished-at="2022-12-30T15:53:14 IST" duration-ms="27088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCountryKSA()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:53:14 IST" name="validateCountryKSA" finished-at="2022-12-30T15:53:22 IST" duration-ms="8202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCountryKSA -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:53:22 IST" name="tearDown" finished-at="2022-12-30T15:53:23 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:53:23 IST" name="setUp" finished-at="2022-12-30T15:53:44 IST" duration-ms="21194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCountryKuwait()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:53:44 IST" name="validateCountryKuwait" finished-at="2022-12-30T15:53:55 IST" duration-ms="11090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCountryKuwait -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:53:55 IST" name="tearDown" finished-at="2022-12-30T15:53:56 IST" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:53:56 IST" name="setUp" finished-at="2022-12-30T15:54:17 IST" duration-ms="20857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLitePackagePriceForBHD()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:54:17 IST" name="validateLitePackagePriceForBHD" finished-at="2022-12-30T15:54:24 IST" duration-ms="7378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLitePackagePriceForBHD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:54:24 IST" name="tearDown" finished-at="2022-12-30T15:54:25 IST" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:54:25 IST" name="setUp" finished-at="2022-12-30T15:54:45 IST" duration-ms="20349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLitePackagePriceForKWD()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:54:45 IST" name="validateLitePackagePriceForKWD" finished-at="2022-12-30T15:54:54 IST" duration-ms="9203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLitePackagePriceForKWD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:54:54 IST" name="tearDown" finished-at="2022-12-30T15:54:55 IST" duration-ms="709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:54:55 IST" name="setUp" finished-at="2022-12-30T15:55:14 IST" duration-ms="18577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLitePackagePriceForSAR()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:55:14 IST" name="validateLitePackagePriceForSAR" finished-at="2022-12-30T15:55:36 IST" duration-ms="22504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLitePackagePriceForSAR -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:55:36 IST" name="tearDown" finished-at="2022-12-30T15:55:37 IST" duration-ms="790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:55:37 IST" name="setUp" finished-at="2022-12-30T15:55:43 IST" duration-ms="5678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatepremiumPackagePriceForBHD()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:55:43 IST" name="validatepremiumPackagePriceForBHD" finished-at="2022-12-30T15:55:50 IST" duration-ms="7215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatepremiumPackagePriceForBHD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:55:50 IST" name="tearDown" finished-at="2022-12-30T15:55:51 IST" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:55:51 IST" name="setUp" finished-at="2022-12-30T15:56:10 IST" duration-ms="18901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatepremiumPackagePriceForKWD()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:56:10 IST" name="validatepremiumPackagePriceForKWD" finished-at="2022-12-30T15:56:32 IST" duration-ms="22715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatepremiumPackagePriceForKWD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:56:32 IST" name="tearDown" finished-at="2022-12-30T15:56:33 IST" duration-ms="737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:56:33 IST" name="setUp" finished-at="2022-12-30T15:56:58 IST" duration-ms="25049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatepremiumPackagePriceForSAR()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:56:58 IST" name="validatepremiumPackagePriceForSAR" finished-at="2022-12-30T15:57:20 IST" duration-ms="22296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatepremiumPackagePriceForSAR -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.qa.testcases.LoginPageTest@533bda92]" started-at="2022-12-30T15:57:20 IST" name="tearDown" finished-at="2022-12-30T15:57:21 IST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stctv.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
